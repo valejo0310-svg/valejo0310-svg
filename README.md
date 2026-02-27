@@ -1,6 +1,6 @@
 # Hi There 👋! 
 
-This is Valery, I'm a software developer in training who's currently learing python and some of the bases for  web development using html, css and a little bit of js. I'm currently working on small projects that allows me to expand my experience and making myself comfortable on this new world.
+This is Valery, I'm a software developer in training who's currently learning python and some of the bases for  web development using html, css and a little bit of js. I'm currently working on small projects that allows me to expand my experience and making myself comfortable on this new world.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
