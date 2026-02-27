@@ -10,7 +10,7 @@ This is Valery, I'm a software developer in training who's currently learning py
 - Fluent in english and spanish, and searching for new lenguages to learn. 
 - I'm an open minded person, so I'm very versatile in most of the aspects of my life. 
 - Constantly searching for new oportunities to expand my knowledge on web and software development.
-- ![My skill](https://skillicons.dev/icons?i=python,js,html,css)
+![My skill](https://skillicons.dev/icons?i=python,js,html,css)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
