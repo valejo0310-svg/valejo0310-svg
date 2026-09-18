@@ -2,7 +2,7 @@
 
 ### Junior Backend Developer | Node.js · TypeScript · PostgreSQL
 
-<p align="left"> <a href="https://www.linkedin.com/in/valery-avila-ortega-216a2440a"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:valejo0310@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/valery-avila-ortega-216a2440a"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"target="_blank"> </a> <a href="mailto:valejo0310@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
 
 I enjoy building backend applications, designing REST APIs, working with relational databases, and understanding how software components interact to create maintainable and useful solutions.
 
